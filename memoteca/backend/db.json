@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": "48b7",
+      "favorito": true,
+      "conteudo": "Isso não é voar, é cair com estilo!",
+      "autoria": "Buzz LightYear",
+      "data": "2024-11-15T09:45:00.456Z"
+    },
+    {
+      "id": "c606",
+      "favorito": true,
+      "conteudo": "In case I don't see you, good afternoon, good evening and good night",
+      "autoria": "Truman",
+      "data": "2024-11-20T18:20:00.789Z"
+    },
+    {
+      "id": "19c5",
+      "favorito": false,
+      "conteudo": "Ta pegando fogo bicho!",
+      "autoria": "Faustão",
+      "data": "2024-10-28T14:05:00.321Z"
+    },
+    {
+      "id": "8f73",
+      "favorito": false,
+      "conteudo": "Do you really expect me to not push you up against the wall, biatch?",
+      "autoria": "Prison Mike",
+      "data": "2024-11-05T22:10:00.654Z"
+    },
+    {
+      "id": "7ec6",
+      "favorito": false,
+      "conteudo": "Já chegou o disco voador!!!!",
+      "autoria": "Chaves",
+      "data": "2024-11-18T07:50:00.987Z"
+    },
+    {
+      "id": "03f7",
+      "favorito": false,
+      "conteudo": "Sha ta ta ta ta",
+      "autoria": "Michael Scott",
+      "data": "2024-11-25T13:30:00.543Z"
+    },
+    {
+      "id": "2ae4",
+      "favorito": true,
+      "conteudo": "Te amo Mil Milhões!!!!",
+      "autoria": "Amor da minha vida",
+      "data": "2024-10-30T17:15:00.876Z"
+    },
+    {
+      "id": "4f50",
+      "favorito": false,
+      "conteudo": "Ah shit, here we go again!",
+      "autoria": "CJ",
+      "data": "2024-11-12T03:40:00.654Z"
+    }
+  ]
+}
